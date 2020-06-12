@@ -1,7 +1,12 @@
 # v2ray-v4.22
 
-# 一. 安装docker
+# 环境
+```
+ubuntu 18.04
+```
 
+# 一. 安装docker
+snap install docker 
 
 # 二. 运行 v2ray
 1. 

@@ -7,8 +7,13 @@ ubuntu 18.04
 
 # 一. 安装docker
 ```
+18.04:
+
 apt install git
 apt install docker-compose
+
+20.04
+snap install docker
 ```
 # 二. 下载文件
 
